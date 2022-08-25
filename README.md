@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikhilRaj-DevOps
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning to delivery high quality software.
-- 💞️ I’m looking to collaborate on solutions.
+- 🌱 I’m currently learning IAC.
+- 💞️ I’m looking to contribute.
 - 📫 How to reach me ...
 
 <!---
