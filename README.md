@@ -9,7 +9,7 @@
 <details open>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" alt="nikhilrajnr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nikhilrajnr&show_icons=true&hide_border=true&theme=blue-green" />
+  <img align="left" alt="NikhilRaj-DevOps's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NikhilRaj-DevOps&show_icons=true&hide_border=true&theme=blue-green" />
 
 </details>
 
