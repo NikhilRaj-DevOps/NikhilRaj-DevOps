@@ -1,7 +1,6 @@
 ### Hi there, I'm Nikhil 👋
 ![](https://komarev.com/ghpvc/?username=NikhilRaj-DevOps&color=blue)
 
-<br />
 ### GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NikhilRaj-DevOps&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
