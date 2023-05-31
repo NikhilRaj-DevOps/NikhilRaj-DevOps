@@ -1,20 +1,11 @@
 ### Hi there, I'm Nikhil 👋
-
-<!-- [![Website](https://img.shields.io/website?label=NikhilRaj-DevOps.github.io&style=for-the-badge&url=https%3A%2F%2Fnikhilrajnr.github.io)](http://NikhilRaj-DevOps.github.io) -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/NikDevOps?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%NikDevOps&screen_name=NikDevOps) -->
-
-## I'm a DevOps Engineer, Mentor & Blogger!!
-- 🌱 I’m currently learning DevOps 🤣
-- 👯 I’m looking to collaborate with other DevOps to delivery high quality software.
-- 🥅 2021 Goals: Share more Knowledge & Contribute to Open Source projects.
-- ⚡ Fun fact: I love Exploring World 🤣
-
-### Connect with me:
-<!-- [<img align="left" alt="DevNikhilRaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="nikhilrajnr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![](https://komarev.com/ghpvc/?username=NikhilRaj-DevOps&color=blue)
 
 <br />
+### GitHub Stats
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=NikhilRaj-DevOps&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+---
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
